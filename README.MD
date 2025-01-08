@@ -1,6 +1,6 @@
 # IF2110 - Linear Algebra and Geometry
 
-<a href="https://github.com/DanielDPW/Makalah_IF1220/tree/main/docs"><strong>Documentation »</strong></a>
+<a href="https://github.com/DanielDPW/Makalah_IF1220_Matdis/tree/main/docs"><strong>Documentation »</strong></a>
 <br />
 </p>
 

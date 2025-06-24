@@ -1,4 +1,4 @@
-# IF1210 - Discrete Mathematics
+# IF1220 - Discrete Mathematics
 
 <a href="https://github.com/DanielDPW/Makalah_IF1220_Matdis/tree/main/docs"><strong>Documentation »</strong></a>
 <br />
@@ -51,7 +51,7 @@ This project explores the usage of graph theory, and specifically weighted graph
 
 3. Change to repository's directory
     ```sh
-    cd Makalah_IF2123_Matdis
+    cd Makalah_IF1220_Matdis
     ```
 
 4. Adjust the simulation parameters.
